@@ -1,3 +1,3 @@
-updated rWLS toolbox first-level model estimation for SPM12 v7219
+This patch updates rWLS toolbox first-level model estimation for SPM12 versions 7219 and higher
 
-http://www.diedrichsenlab.org/imaging/robustWLS.html
+rWLS toolbox: http://www.diedrichsenlab.org/imaging/robustWLS.html
